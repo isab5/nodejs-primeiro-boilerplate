@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-primeiro-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isab5/nodejs-primeiro-boilerplate.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Boilerplate",
+    "SENAI",
+    "back-end",
+    "Dev"
+  ],
+  "author": "Isabella Borin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isab5/nodejs-primeiro-boilerplate/issues"
+  },
+  "homepage": "https://github.com/isab5/nodejs-primeiro-boilerplate#readme"
+}
